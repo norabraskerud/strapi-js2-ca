@@ -1,5 +1,13 @@
 # Strapi application
 
+To start the Strapi project:
+```
+npm install
+npm run develop
+```
+
+Login details:
+
 ```
 Username: admin@admin.com
 Password: Pass1234
